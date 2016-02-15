@@ -2,3 +2,4 @@ flamethrower
 burn
 fire
 i am a cool pokemon
+What says Pikachu is false.
